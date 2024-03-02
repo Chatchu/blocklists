@@ -1,0 +1,8 @@
+||firefox-android-home-recommendations.getpocket.com^$important
+||gateway.fe2.apple-dns.net^$important
+||doh.dns.apple.com.v.aaplimg.com^$important
+||doh.dns.apple.com^$important
+||dns.google^$important
+||1dot1dot1dot1.cloudflare-dns.com
+||js-agent.newrelic.com^
+||googletagmanager.com^
