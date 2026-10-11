@@ -8,3 +8,4 @@
 ||googletagmanager.com^
 graph.facebook.com^important
 b-graph.facebook.com^important
+/^.*graph\.facebook\.com$/
