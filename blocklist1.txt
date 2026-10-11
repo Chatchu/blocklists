@@ -6,3 +6,5 @@
 ||1dot1dot1dot1.cloudflare-dns.com
 ||js-agent.newrelic.com^
 ||googletagmanager.com^
+graph.facebook.com^important
+b-graph.facebook.com^important
